@@ -1,0 +1,32 @@
+Description about files 
+
+** Python file for processing and analysis
+
+1- reading cyclistic data.ipynb ( cleaing and Converting data into the required table for anaysis ).
+2- func_PrcessCyclistCaseStudyRawData.ipynb ( file that enable directly doing all cleaning manpulation steps by entering the file path of raw data and entering the file path of out put data ).
+3-concat analysis.ipynb ( to compine all sheets data into one sheet ).
+
+** text files
+
+1-Cyclistic Divvy team README file (data processing Steps from their side ).txt ( the file descripes the steps done by cyclistic data team ).
+2-Start from me.txt ( contains summary about each file function )
+
+** Data source files
+1- link    : https://divvy-tripdata.s3.amazonaws.com/index.html 
+ I worked on last 12 month from dec 2020 to nov 2021 as dercibed in Business case file .
+2- license  : https://ride.divvybikes.com/data-license-agreement
+
+
+** out Put Files
+1- final analysis sheet.xlsx
+Contains the output formated data for anlysis and insights .
+
+2-Cyclistics Case Study Analysis phases and insights.pdf
+Conaints all details of data anlysis process and my insights and recommendations
+
+
+my Contacts
+1- Name : Ahmed Salah Mohamed Abo ElEneen
+2- Linked In Profile : www.linkedin.com/in/ahmed-eneen-04610b2a
+3- Phone +201064044443  ( Egypt )
+4- Email : Wareed2015@gmail.com
